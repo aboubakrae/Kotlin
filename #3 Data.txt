@@ -1,0 +1,20 @@
+fun main(args: Array<String>) {
+    //VAR
+    var name:String="aboubakr"
+
+    var age:Int=18
+    println("name:"+name)
+    println("age:"+age)
+    var years:Int?
+    years=2019
+    println("years:"+years)
+    name="ezzedami"
+    //VAl
+    val name1:String="aboubakr"
+    val age1:Int=18
+    println("name1:"+name1)
+    println("age1:"+age)
+    val years1:Int?
+    years=2019
+    println("years1:"+years)
+}

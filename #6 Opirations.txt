@@ -1,0 +1,15 @@
+// Math calculator
+fun main(args: Array<String>) {
+    var n1:Int=70
+    var n2:Int=50
+    var sum:Int?
+    sum=n1+n2
+    println("sum="+sum)
+    var n4:Int= readLine()!!.toInt()
+    var n5:Int= readLine()!!.toInt()
+    var summ:Int
+    summ=n4+n5
+    println("summ="+summ)
+
+
+}
